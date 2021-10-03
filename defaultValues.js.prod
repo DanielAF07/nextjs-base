@@ -1,0 +1,2 @@
+export const env = 'production';
+export const apiPath = 'https://api.app.curadeuda.com';

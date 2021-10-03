@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "@components/*": ["components/*"],
+            "@styles/*": ["styles/*"],
+            "@public/*": ["public/*"],
+            "@redux/*": ["redux/*"],
+            "@hooks/*": ["hooks/*"],
+            "@config/*": ["config/*"],
+            "@defaultValues": ["defaultValues.js"],
+        }
+    }
+}

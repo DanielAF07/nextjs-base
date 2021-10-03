@@ -1,0 +1,2 @@
+// GENERAL
+export const MY_FIRST_ACTION = "MY_FIRST_ACTION";

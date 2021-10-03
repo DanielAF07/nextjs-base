@@ -1,0 +1,2 @@
+export const env = 'development';
+export const apiPath = 'https://mewtwo.develop.curadeuda.com';
